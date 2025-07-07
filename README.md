@@ -16,4 +16,4 @@ Projeto de uma calculadora básica construída com HTML e CSS. O objetivo é apl
 - Pedro Stachuka
 
 ## 📌 Link para o Trello
-
+https://trello.com/invite/b/686bc95cf7d3803963329407/ATTIc89ca3f2835fe8b872c9c74407777f6a3278EA86/calculadora
