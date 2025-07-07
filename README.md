@@ -17,4 +17,3 @@ Projeto de uma calculadora básica construída com HTML e CSS. O objetivo é apl
 
 ## 📌 Link para o Trello
 
-## Branch voltada para o desenvolvimento da estilização do projeto.
